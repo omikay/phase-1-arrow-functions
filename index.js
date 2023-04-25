@@ -4,7 +4,7 @@ const divide = function() {
 
 // Arrow function called square
 const square = (num) => {
-    return num * num;
+    return num ** 2;
 };
 
 // Arrow function called add
